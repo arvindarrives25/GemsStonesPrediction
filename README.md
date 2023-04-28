@@ -1,4 +1,4 @@
-## End To End ML Project
+## End To End Gems Stones Prediction ML Project
 
 ### Created an environment
 ```
